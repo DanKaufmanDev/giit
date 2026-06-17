@@ -15,7 +15,7 @@ Most Git clients help you make changes. Giit is designed to help you make change
 The result is a Git workflow where speed and safety belong together: inspect first, apply intentionally, and recover quickly when something goes sideways.
 
 <p align="center">
-  <img src="docs/assets/giit-preview.png" alt="Giit interface preview" width="820" />
+  <img src="docs/assets/giit-preview.webp" alt="Giit interface preview" width="820" />
 </p>
 
 ## Highlights
