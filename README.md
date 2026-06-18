@@ -74,12 +74,3 @@ Giit is designed to operate on repositories on your machine. Repository state, r
 Network access is used for Git operations you initiate, such as fetch, pull, push, and update checks.
 
 For more detail, see [PRIVACY.md](PRIVACY.md).
-
-
-## Public Repo
-
-- [Changelog](CHANGELOG.md)
-- [Contributing](CONTRIBUTING.md)
-- [Security policy](SECURITY.md)
-- [Code of conduct](CODE_OF_CONDUCT.md)
-- [License](LICENSE)
